@@ -122,6 +122,7 @@
 *://*.bursasosyal.com/*
 *://*.ca.bobbycreekwater.com/*
 *://*.caduas-discount-tire-shop.blogspot.com/*
+*://*.cafebarversatil.es/*
 *://*.calacademy.org/*
 *://*.calayaprimas96.files.wordpress.com/*
 *://*.calayaprimas96.wordpress.com/*
@@ -131,6 +132,7 @@
 *://*.cb.magemane.xyz/*
 *://*.ccmmex.net/*
 *://*.centpourcentdiagnostic.fr/*
+*://*.centrocaninomontemar.es/*
 *://*.cepmax.co/*
 *://*.cesmehaberi.com/*
 *://*.cevapanahtaripdf.com/*
@@ -160,6 +162,8 @@
 *://*.darcusjamyri83.files.wordpress.com/*
 *://*.darcusjamyri83.wordpress.com/*
 *://*.dbooks.online/*
+*://*.deckdabotf.tk/*
+*://*.denormandieimmobilier.fr/*
 *://*.deraneyadabella.files.wordpress.com/*
 *://*.deraneyadabella.wordpress.com/*
 *://*.descuentosalobestia.es/*
@@ -410,6 +414,7 @@
 *://*.kamudanhaber.com/*
 *://*.karinnelanzillotti.files.wordpress.com/*
 *://*.karinnelanzillotti.wordpress.com/*
+*://*.karl-explores.de/*
 *://*.karot.us/*
 *://*.karsturkey.com/*
 *://*.karzones.blogaaja.fi/*
@@ -433,6 +438,7 @@
 *://*.kitap-ucretsiz-pdf.info/*
 *://*.kitap.brandeurs.ru/*
 *://*.kitap.live/*
+*://*.kitap.name/*
 *://*.kitapbulindir.blogspot.com/*
 *://*.kitapci.ga/*
 *://*.kitapindir.com/*
@@ -466,6 +472,7 @@
 *://*.kongmengxi.tk/*
 *://*.konyabayanescort.com/*
 *://*.konyadaegitim.com/*
+*://*.kosmopole.fr/*
 *://*.kozuchy-nicol.pl/*
 *://*.kritikhaberler.com/*
 *://*.kusadasiteknikservis.com/*
@@ -486,6 +493,7 @@
 *://*.leparadisdupetitmusulman.fr/*
 *://*.leros.wpdevcloud.com/*
 *://*.letheatre-narbonne.com/*
+*://*.levantehomestaging.es/*
 *://*.lightsintheheights.com.au/*
 *://*.liker.es/*
 *://*.lionsgategloveandsafety.com/*
@@ -502,6 +510,7 @@
 *://*.mahinfograph.wordpress.com/*
 *://*.malatya.in/*
 *://*.malatya.tv/*
+*://*.managementacademypro.it/*
 *://*.mandoa501.fr/*
 *://*.manisaanahtar.com/*
 *://*.manisapidesun.com/*
@@ -548,12 +557,14 @@
 *://*.mynhierramiz.files.wordpress.com/*
 *://*.mynhierramiz.wordpress.com/*
 *://*.nabortekcta.ru/*
+*://*.naked.za.com/*
 *://*.nanthaskitchen.com/*
 *://*.naryanladucer1983.files.wordpress.com/*
 *://*.naryanladucer1983.wordpress.com/*
 *://*.nasil.co/*
 *://*.naturopatiaginapolborras.es/*
 *://*.nazlim.net/*
+*://*.neokur.com/*
 *://*.nethaber.com/*
 *://*.nethaberci.com/*
 *://*.nevsehirbilet.com/*
@@ -593,6 +604,7 @@
 *://*.oyunkuyusu.com/*
 *://*.pamukkalehaber.com/*
 *://*.parateknik.com/*
+*://*.pasticceriachiarugi.it/*
 *://*.pcn.gassi.xyz/*
 *://*.pdf-epub-fb2-kitaplar.info/*
 *://*.pdf-fb2-kitabn.info/*
@@ -648,10 +660,12 @@
 *://*.phobuthoespan1974.wordpress.com/*
 *://*.phohen.com/*
 *://*.pickusaholly-info.stackstaging.com/*
+*://*.pirilancer.com/*
 *://*.pivanson.eshost.com.ar/*
 *://*.pivanson.hebergratuit.net/*
 *://*.piyushkayser.files.wordpress.com/*
 *://*.piyushkayser.wordpress.com/*
+*://*.play-motors.fr/*
 *://*.pn.cx/*
 *://*.polis.web.tr/*
 *://*.pompes-funebres-musulmanes-75.fr/*
@@ -663,6 +677,7 @@
 *://*.posta.com.tr/*
 *://*.pratikyemekbilgileri.com/*
 *://*.pre.mobby.co/*
+*://*.premiums.sa.com/*
 *://*.priscilla.work/*
 *://*.prmbw.com/*
 *://*.procave.com.br/*
@@ -794,6 +809,7 @@
 *://*.traducciones-zeta.es/*
 *://*.traverseaventure.fr/*
 *://*.trmanset.com/*
+*://*.trpdfs.info/*
 *://*.trthaber.com/*
 *://*.trtspor.com.tr/*
 *://*.trud-sudim.ru/*
@@ -842,6 +858,7 @@
 *://*.veganhunter.net/*
 *://*.venusbetyenigiris.com/*
 *://*.verifyrobot.online/*
+*://*.vibrashop.co/*
 *://*.vik-mebli.com/*
 *://*.vofchichive.files.wordpress.com/*
 *://*.vofchichive.wordpress.com/*
@@ -884,6 +901,7 @@
 *://*.yourbookslibrary.xyz/*
 *://*.yozgatsifa.com/*
 *://*.yozgatyagmurmermer.com/*
+*://*.zasua.co/*
 *://*.ziannahpotolsky96.files.wordpress.com/*
 *://*.ziannahpotolsky96.wordpress.com/*
 *://*.ziuauriwright.files.wordpress.com/*
