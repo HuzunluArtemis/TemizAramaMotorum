@@ -72,7 +72,6 @@
 *://*.bbnhaber.com/*
 *://*.bedavapdfdunyasi.com/*
 *://*.bedavapdfkitap.com/*
-*://*.belespdf.com/*
 *://*.beliscasino.com/*
 *://*.belrosepax1992.files.wordpress.com/*
 *://*.belrosepax1992.wordpress.com/*
@@ -1820,3 +1819,4 @@
 @1*://www.wikipedia.org/*
 @1*://www.ysk.gov.tr/*
 @1*://ysk.gov.tr/*
+@1*://belespdf.com/*
