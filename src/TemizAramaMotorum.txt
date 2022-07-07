@@ -67,6 +67,8 @@
 *://*.ayyubdadd83.wordpress.com/*
 *://*.b2book.onlinewebshop.net/*
 *://*.bahis10.geceonline.com/*
+*://*.bahisleri.gb.net/*
+*://*.banner-ever.com/*
 *://*.basla-kitap.vercel.app/*
 *://*.batshevagomoll1994.wordpress.com/*
 *://*.bbnhaber.com/*
@@ -78,6 +80,8 @@
 *://*.bembitansion.files.wordpress.com/*
 *://*.bembitansion.wordpress.com/*
 *://*.bet.liker.es/*
+*://*.betslots.pages.dev/*
+*://*.bettilsgjvasz.netlify.app/*
 *://*.bettilt.radio.fm/*
 *://*.bettilt533.com/*
 *://*.betturkey-one.cdn.ampproject.org/*
@@ -85,6 +89,7 @@
 *://*.beyazgazete.com/*
 *://*.beylikduzuelitescort.com/*
 *://*.bib-erlangen.de/*
+*://*.bignews.es/*
 *://*.bilgilibeyinler.com/*
 *://*.birgun.net/*
 *://*.blinnrockie.files.wordpress.com/*
@@ -108,6 +113,7 @@
 *://*.brassardsaed86.wordpress.com/*
 *://*.breitenivianna90.files.wordpress.com/*
 *://*.breitenivianna90.wordpress.com/*
+*://*.breizhbook.com/*
 *://*.bridgeforthaliveah1993.files.wordpress.com/*
 *://*.bridgeforthaliveah1993.wordpress.com/*
 *://*.bugun.com.tr/*
@@ -116,6 +122,7 @@
 *://*.bursasosyal.com/*
 *://*.ca.bobbycreekwater.com/*
 *://*.caduas-discount-tire-shop.blogspot.com/*
+*://*.calacademy.org/*
 *://*.calayaprimas96.files.wordpress.com/*
 *://*.calayaprimas96.wordpress.com/*
 *://*.canakkalehotelguide.com/*
@@ -123,6 +130,7 @@
 *://*.casediriposomedicalsan.it/*
 *://*.cb.magemane.xyz/*
 *://*.ccmmex.net/*
+*://*.centpourcentdiagnostic.fr/*
 *://*.cepmax.co/*
 *://*.cesmehaberi.com/*
 *://*.cevapanahtaripdf.com/*
@@ -158,6 +166,7 @@
 *://*.despainstylianos.files.wordpress.com/*
 *://*.despainstylianos.wordpress.com/*
 *://*.detaykarot.net/*
+*://*.deviwoodworks.com/*
 *://*.didimvillalari.com/*
 *://*.diken.com.tr/*
 *://*.diyarbakirozeloto.com/*
@@ -202,13 +211,16 @@
 *://*.ekonomimektebi.com/*
 *://*.elazigfestivali.com/*
 *://*.elazighotelgrand23.com/*
+*://*.elektrikciadana.life/*
 *://*.elele.com.tr/*
 *://*.emkoupbelldep1976.files.wordpress.com/*
 *://*.emkoupbelldep1976.wordpress.com/*
+*://*.emppeds.cfd/*
 *://*.engagementringssandiego.net/*
 *://*.ensonhaber.com/*
 *://*.eokcogibin.files.wordpress.com/*
 *://*.eokcogibin.wordpress.com/*
+*://*.epdf.pub/*
 *://*.epdfkitapindiir.com/*
 *://*.epdfkitapindir.com/*
 *://*.epdfkitapinndir.com/*
@@ -233,6 +245,7 @@
 *://*.fbhesq.com/*
 *://*.fezahaber.com/*
 *://*.findi.pro/*
+*://*.flappygist.com/*
 *://*.flashabermerkezi.com/*
 *://*.flexsodin.com/*
 *://*.focushaber.com/*
@@ -241,6 +254,7 @@
 *://*.fotomac.com.tr/*
 *://*.fotos-paisajes.net /*
 *://*.freefarmgame.co.uk/*
+*://*.freekays.blogspot.com/*
 *://*.freekitap.com/*
 *://*.freesite.host/*
 *://*.fullpdfkitapindir.com/*
@@ -273,6 +287,7 @@
 *://*.gokadin.com/*
 *://*.goocloudchat.files.wordpress.com/*
 *://*.goocloudchat.wordpress.com/*
+*://*.grafpapier.pl/*
 *://*.gulfsidecareers.com/*
 *://*.gumushanehbr.com/*
 *://*.guncelpdf.com/*
@@ -336,6 +351,7 @@
 *://*.hepsifutbol.com/*
 *://*.hero.buildingengines.com/*
 *://*.hirri.xyz/*
+*://*.homely-concept.fr/*
 *://*.hozyayka.org/*
 *://*.huangweiting.tk/*
 *://*.humayraberchielli87.files.wordpress.com/*
@@ -345,6 +361,7 @@
 *://*.hwn500.de/*
 *://*.iceiy.com/*
 *://*.icpiyasa.com/*
+*://*.ifulu.cn/*
 *://*.iha.com.tr/*
 *://*.immo-crowdfunding.fr/*
 *://*.incilikadin.com/*
@@ -352,8 +369,10 @@
 *://*.indirdepo.mobi/*
 *://*.indirkitaplarpdf.com/*
 *://*.indr.in/*
+*://*.inlandsis-studio.fr/*
 *://*.institutoivec.es/*
 *://*.internethaber.com/*
+*://*.iranjobex.com/*
 *://*.iroteenyvale.files.wordpress.com/*
 *://*.iroteenyvale.wordpress.com/*
 *://*.irsuperleague.com/*
@@ -368,6 +387,7 @@
 *://*.iyijadeitect.files.wordpress.com/*
 *://*.iyijadeitect.wordpress.com/*
 *://*.jabook.iceiy.com/*
+*://*.jackpotcitypokies.com.au/*
 *://*.jaeceebroll.files.wordpress.com/*
 *://*.jaeceebroll.wordpress.com/*
 *://*.jaeceionlauseng1998.files.wordpress.com/*
@@ -381,6 +401,7 @@
 *://*.jolavacaster.wordpress.com/*
 *://*.josiecarterproductionsllc.org/*
 *://*.jscinmark.ru/*
+*://*.judolhermitagelerheu.fr/*
 *://*.juj.anayaril.xyz/*
 *://*.k-hen.com/*
 *://*.kadindogasi.com/*
@@ -392,6 +413,7 @@
 *://*.karot.us/*
 *://*.karsturkey.com/*
 *://*.karzones.blogaaja.fi/*
+*://*.kasinocrdm.web.app/*
 *://*.kastamonukulubu.com/*
 *://*.kastamonutecsen.com/*
 *://*.kayserinurtemizlik.com/*
@@ -453,6 +475,7 @@
 *://*.kuzgunspor.com/*
 *://*.lamarquetaretona.com/*
 *://*.landings.flexsodin.com/*
+*://*.landpager.ru/*
 *://*.lassanalenahan90.files.wordpress.com/*
 *://*.lassanalenahan90.wordpress.com/*
 *://*.leblogdubienetre.fr/*
@@ -460,6 +483,7 @@
 *://*.ledabbspecaf1975.wordpress.com/*
 *://*.lefterismaxim.firebaseapp.com/*
 *://*.legendes-broceliande.fr/*
+*://*.leparadisdupetitmusulman.fr/*
 *://*.leros.wpdevcloud.com/*
 *://*.letheatre-narbonne.com/*
 *://*.lightsintheheights.com.au/*
@@ -468,6 +492,7 @@
 *://*.liquidfile.topupload.ru/*
 *://*.localhaber.com/*
 *://*.lospitale.com/*
+*://*.lovhom.es/*
 *://*.lrglitclan.files.wordpress.com/*
 *://*.lrglitclan.wordpress.com/*
 *://*.maastrichtdisrupt.nl/*
@@ -513,6 +538,7 @@
 *://*.mobi-pdf-kitaplar.info/*
 *://*.molliecoday.com/*
 *://*.monbuil.xyz/*
+*://*.moto-clean.net/*
 *://*.msqlinkagram.files.wordpress.com/*
 *://*.msqlinkagram.wordpress.com/*
 *://*.mteyasam.com/*
@@ -521,9 +547,11 @@
 *://*.mynet.com/*
 *://*.mynhierramiz.files.wordpress.com/*
 *://*.mynhierramiz.wordpress.com/*
+*://*.nabortekcta.ru/*
 *://*.nanthaskitchen.com/*
 *://*.naryanladucer1983.files.wordpress.com/*
 *://*.naryanladucer1983.wordpress.com/*
+*://*.nasil.co/*
 *://*.naturopatiaginapolborras.es/*
 *://*.nazlim.net/*
 *://*.nethaber.com/*
@@ -541,9 +569,11 @@
 *://*.ntvmsnbc.com/*
 *://*.objektifhaberim.com/*
 *://*.odatv.com/*
+*://*.oftalmologiapedrodevaldivia.cl/*
 *://*.ogm.hirri.xyz/*
 *://*.ohtbittyvale.files.wordpress.com/*
 *://*.ohtbittyvale.wordpress.com/*
+*://*.okna-krasnodar23.ru/*
 *://*.okunmasi-gereken-kitaplar.netlify.app/*
 *://*.okurlar.metakm.ru/*
 *://*.olaymedya.com/*
@@ -551,6 +581,7 @@
 *://*.olekmccuistion1989.wordpress.com/*
 *://*.olshaniki-hotel.ru/*
 *://*.onedio.com/*
+*://*.onelove.news/*
 *://*.onlinekitapoku.com/*
 *://*.onur.olshaniki-hotel.ru/*
 *://*.ordugurbetfm.com/*
@@ -621,6 +652,7 @@
 *://*.pivanson.hebergratuit.net/*
 *://*.piyushkayser.files.wordpress.com/*
 *://*.piyushkayser.wordpress.com/*
+*://*.pn.cx/*
 *://*.polis.web.tr/*
 *://*.pompes-funebres-musulmanes-75.fr/*
 *://*.ponylo.freesite.host/*
@@ -633,6 +665,8 @@
 *://*.pre.mobby.co/*
 *://*.priscilla.work/*
 *://*.prmbw.com/*
+*://*.procave.com.br/*
+*://*.programifullindir.com/*
 *://*.promarka.net/*
 *://*.quistatotse1973.files.wordpress.com/*
 *://*.quistatotse1973.wordpress.com/*
@@ -653,6 +687,7 @@
 *://*.romashk9arfk10.com/*
 *://*.rotahaber.com/*
 *://*.rothburyfoodandcraftfestival.co.uk/*
+*://*.roulettefhgx.web.app/*
 *://*.rowerowaszkola.pl/*
 *://*.rthaber.com/*
 *://*.rulet.emocoaching.es/*
@@ -661,6 +696,7 @@
 *://*.rvminfochat.files.wordpress.com/*
 *://*.rvminfochat.wordpress.com/*
 *://*.sabah.com.tr/*
+*://*.sacampsites.co.za/*
 *://*.saglikda.com/*
 *://*.saglikmekan.com/*
 *://*.sakaryafenlisesi.com/*
@@ -711,7 +747,10 @@
 *://*.star.com.tr/*
 *://*.stargazete.com/*
 *://*.stargundem.com/*
+*://*.storeinfo.jp/*
 *://*.strikinglycdn.com/*
+*://*.stringfixer.com/*
+*://*.supermamy.es/*
 *://*.supprifuchdio1978.files.wordpress.com/*
 *://*.supprifuchdio1978.wordpress.com/*
 *://*.surez-muncen.web.app/*
@@ -732,6 +771,7 @@
 *://*.teknovakti.com/*
 *://*.temizsesli.com/*
 *://*.thailandrestaurantnews.com/*
+*://*.thehighnotecafe.com/*
 *://*.theimperfectmd.com/*
 *://*.thelira.com/*
 *://*.thewp.com.tr/*
@@ -757,11 +797,14 @@
 *://*.trthaber.com/*
 *://*.trtspor.com.tr/*
 *://*.trud-sudim.ru/*
+*://*.tufs.ac.jp/*
 *://*.tum-formatlar-kitaplar.info/*
 *://*.turkce-kitabin.ancient-egypt.ru/*
 *://*.turkishpdfbooks.info/*
 *://*.turkmmo.com/*
+*://*.turkpsgb.netlify.app/*
 *://*.turs.freesite.host/*
+*://*.ty59.com/*
 *://*.tylerjamesborbon.files.wordpress.com/*
 *://*.tylerjamesborbon.wordpress.com/*
 *://*.tylunvernia1991.files.wordpress.com/*
@@ -776,6 +819,8 @@
 *://*.ukinoryc1976.wordpress.com/*
 *://*.ukrhaber.com/*
 *://*.ulus74haber.com/*
+*://*.umassmed.edu/*
+*://*.unam.mx/*
 *://*.upandshare.nocoshop.ru/*
 *://*.uploads.strikinglycdn.com/*
 *://*.uriasmcnellie89.files.wordpress.com/*
@@ -800,11 +845,15 @@
 *://*.vik-mebli.com/*
 *://*.vofchichive.files.wordpress.com/*
 *://*.vofchichive.wordpress.com/*
+*://*.wakelet.com/*
 *://*.web.dpssports.org/*
 *://*.weihnachtsmaerkte-international.de/*
+*://*.welovewoods.com/*
 *://*.whatsappdansohbet.website/*
+*://*.whoosk.com/*
 *://*.wisteriablue.com.au/*
 *://*.wloszakowice2021.pl/*
+*://*.wordpress.com/*
 *://*.wpdevcloud.com/*
 *://*.wziviridimechanic.files.wordpress.com/*
 *://*.wziviridimechanic.wordpress.com/*
@@ -813,6 +862,7 @@
 *://*.xdkavablog.wordpress.com/*
 *://*.xlbfreshhive.files.wordpress.com/*
 *://*.xlbfreshhive.wordpress.com/*
+*://*.xmdforex.com/*
 *://*.xmtgoldalizer.files.wordpress.com/*
 *://*.xmtgoldalizer.wordpress.com/*
 *://*.yalovamusicfest.com/*
@@ -1668,6 +1718,7 @@
 @1*://dergicin.com/*
 @1*://docplayer.biz.tr/*
 @1*://dogrulukpayi.com/*
+@1*://dokumen.tips/*
 @1*://dosya.co/*
 @1*://dosya.tc/*
 @1*://dw.com/*
