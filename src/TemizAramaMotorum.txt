@@ -622,7 +622,9 @@
 *://*.piyushkayser.files.wordpress.com/*
 *://*.piyushkayser.wordpress.com/*
 *://*.polis.web.tr/*
+*://*.pompes-funebres-musulmanes-75.fr/*
 *://*.ponylo.freesite.host/*
+*://*.poranaczytanie.pl/*
 *://*.pornosovet.net/*
 *://*.positivew.fr/*
 *://*.post-gazette.com/*
@@ -916,7 +918,6 @@
 *://bbnhaber.com/*
 *://bedavapdfdunyasi.com/*
 *://bedavapdfkitap.com/*
-*://belespdf.com/*
 *://beliscasino.com/*
 *://belrosepax1992.files.wordpress.com/*
 *://belrosepax1992.wordpress.com/*
@@ -1657,6 +1658,7 @@
 @1*://bbc.com/*
 @1*://bebarbilim.net/*
 @1*://bedavapdf.com/*
+@1*://belespdf.com/*
 @1*://bilgicik.com/*
 @1*://bilimfili.com/*
 @1*://birparcatuhaftik.com/*
@@ -1819,4 +1821,3 @@
 @1*://www.wikipedia.org/*
 @1*://www.ysk.gov.tr/*
 @1*://ysk.gov.tr/*
-@1*://belespdf.com/*
