@@ -63,6 +63,7 @@
 *://*.atbodrum.com/*
 *://*.attorneyintucson.net/*
 *://*.augur.com.pl/*
+*://*.autosardoz.es/*
 *://*.avaeahpederson1986.files.wordpress.com/*
 *://*.avaeahpederson1986.wordpress.com/*
 *://*.aviatowler.files.wordpress.com/*
@@ -88,6 +89,7 @@
 *://*.belrosepax1992.wordpress.com/*
 *://*.bembitansion.files.wordpress.com/*
 *://*.bembitansion.wordpress.com/*
+*://*.bestvisions.site/*
 *://*.bet.liker.es/*
 *://*.betslots.pages.dev/*
 *://*.bettilsgjvasz.netlify.app/*
@@ -101,6 +103,7 @@
 *://*.bignews.es/*
 *://*.bilgilibeyinler.com/*
 *://*.birgun.net/*
+*://*.biuro-rachunkowe-info.pl/*
 *://*.blinnrockie.files.wordpress.com/*
 *://*.blinnrockie.wordpress.com/*
 *://*.bloomberght.com/*
@@ -236,6 +239,7 @@
 *://*.ekitapindirpdf.com/*
 *://*.ekitaplaroku.com/*
 *://*.ekitapyeri.com/*
+*://*.eko-gift.pl/*
 *://*.ekonomimektebi.com/*
 *://*.elazigfestivali.com/*
 *://*.elazighotelgrand23.com/*
@@ -262,6 +266,7 @@
 *://*.erzincanlibaharat.com/*
 *://*.erzurum2012iwsc.com/*
 *://*.erzurumcozumetut.com/*
+*://*.es.tl/*
 *://*.escortbodrum.org/*
 *://*.escortbursa16.com/*
 *://*.escortbursam.com/*
@@ -315,10 +320,12 @@
 *://*.gieducedre.fr/*
 *://*.giresunistikbal.com/*
 *://*.giresunpide.com/*
+*://*.glazur-mat.pl/*
 *://*.gokadin.com/*
 *://*.golf-fanatik.cz/*
 *://*.goocloudchat.files.wordpress.com/*
 *://*.goocloudchat.wordpress.com/*
+*://*.grafonika.pl/*
 *://*.grafpapier.pl/*
 *://*.greenparkgolf.fr/*
 *://*.gulfsidecareers.com/*
@@ -517,14 +524,17 @@
 *://*.kusadasiteknikservis.com/*
 *://*.kutahyaalsat.com/*
 *://*.kutahyaosb.com/*
+*://*.kutuphane-odf-mp3.site/*
 *://*.kutuphanesi.kickscooter.ru/*
 *://*.kuzgunspor.com/*
+*://*.la-petite-librairie.fr/*
 *://*.lamarquetaretona.com/*
 *://*.landings.flexsodin.com/*
 *://*.landpager.ru/*
 *://*.lassanalenahan90.files.wordpress.com/*
 *://*.lassanalenahan90.wordpress.com/*
 *://*.lbestetica.it/*
+*://*.le-salon-interactif.fr/*
 *://*.leblogdubienetre.fr/*
 *://*.ledabbspecaf1975.files.wordpress.com/*
 *://*.ledabbspecaf1975.wordpress.com/*
@@ -657,11 +667,13 @@
 *://*.osprey-sa-ltd.blogspot.com/*
 *://*.oyunkuyusu.com/*
 *://*.pamukkalehaber.com/*
+*://*.panhoff-coaching.de/*
 *://*.parateknik.com/*
 *://*.pasticceriachiarugi.it/*
 *://*.pcn.gassi.xyz/*
 *://*.pdf-epub-fb2-kitaplar.info/*
 *://*.pdf-fb2-kitabn.info/*
+*://*.pdf-indiricisi.info/*
 *://*.pdf-kitap-indir.info/*
 *://*.pdf-kitaplar-ucretsiz.info/*
 *://*.pdf.indirdepo.mobi/*
@@ -685,6 +697,7 @@
 *://*.pdfindirmek.com/*
 *://*.pdfindiroku.site/*
 *://*.pdfindiroku.xyz/*
+*://*.pdfindirx.com/*
 *://*.pdfizy.com/*
 *://*.pdfkitap.ga/*
 *://*.pdfkitaparsiv.com/*
@@ -752,6 +765,7 @@
 *://*.reasiaestanislau.files.wordpress.com/*
 *://*.reasiaestanislau.wordpress.com/*
 *://*.reqcdn.com/*
+*://*.revizepinkava.cz/*
 *://*.reysport.es/*
 *://*.righilady90.files.wordpress.com/*
 *://*.righilady90.wordpress.com/*
@@ -806,6 +820,7 @@
 *://*.sivastina2006.com/*
 *://*.siyahgazete.com/*
 *://*.sizekitap.com/*
+*://*.slotsuonzh.web.app/*
 *://*.smart.topupload.ru/*
 *://*.socialmediathing.co.uk/*
 *://*.sohbetcepte.com/*
@@ -851,6 +866,7 @@
 *://*.teknovakti.com/*
 *://*.temizsesli.com/*
 *://*.terminal42.es/*
+*://*.tevfik-fikret-mp3-pdf.site/*
 *://*.thailandrestaurantnews.com/*
 *://*.thehighnotecafe.com/*
 *://*.theimperfectmd.com/*
@@ -888,7 +904,9 @@
 *://*.tufs.ac.jp/*
 *://*.tum-formatlar-kitaplar.info/*
 *://*.turkce-kitabin.ancient-egypt.ru/*
+*://*.turkgasinotxmy.netlify.app/*
 *://*.turkishpdfbooks.info/*
+*://*.turkiye.gb.net/*
 *://*.turkmmo.com/*
 *://*.turkpsgb.netlify.app/*
 *://*.turs.freesite.host/*
